@@ -13,3 +13,14 @@ The MPS Lab focuses on advancing computational methods and technologies to simpl
 * **Intelligent Transportation Systems:** Enhancing smart mobility with AI-driven solutions for transportation challenges.
 * **Multi-level Intermediate Representation:** Innovating compiler designs for better optimization and cross-platform compatibility.
 * **Quantum Machine Learning:** Pioneering research at the intersection of quantum computing and AI for next-generation intelligent systems.
+<hr>
+
+### 🌐 Learn More
+For more information, visit our [website](https://labs.engineering.asu.edu/mps-lab/).
+
+<hr>
+
+### 🤝 Join Us
+Interested in making programming simpler and more powerful?
+We welcome collaborations, passionate students, and industry partners.
+Feel free to reach out and connect!
